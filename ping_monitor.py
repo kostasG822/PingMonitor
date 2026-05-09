@@ -102,7 +102,7 @@ class PingMonitorApp(tk.Tk):
 
     def __init__(self):
         super().__init__()
-        self.title("Ping Monitor — Tsiamantas Security")
+        self.title("Ping Monitor v1.2")
         self.geometry("900x640")
         self.minsize(750, 500)
         self.configure(bg="#F8F8F6")
